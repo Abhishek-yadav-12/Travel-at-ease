@@ -52,21 +52,24 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide slide" style="background:url(images/travel.jpg)">
                     <div class="content">
-                        <span>explore, discover, travel</span>
+                    <span class="travel-text" style="color: rgba(255, 255, 255, 0.8); font-size: 3rem;">Explore, Discover, Travel</span>
+
                         <h3>travel around the world</h3>
                         <a href="package.php" class="btn">discover more</a>
                     </div>
                 </div>
                 <div class="swiper-slide slide" style="background:url(images/travel.jpg)">
                     <div class="content">
-                        <span>explore, discover, travel</span>
+                    <span class="travel-text" style="color: rgba(255, 255, 255, 0.8); font-size: 3rem;">Explore, Discover, Travel</span>
+
                         <h3>discover the new places</h3>
                         <a href="package.php" class="btn">discover more</a>
                     </div>
                 </div>
                 <div class="swiper-slide slide" style="background:url(images/travel.jpg)">
                     <div class="content">
-                        <span>explore, discover, travel</span>
+                    <span class="travel-text" style="color: rgba(255, 255, 255, 0.8); font-size: 3rem;">Explore, Discover, Travel</span>
+
                         <h3>make your time count</h3>
                         <a href="package.php" class="btn">discover more</a>
                     </div>
@@ -122,7 +125,26 @@
 
     <!-- sevices section ends -->
 
+<!-- home about section starts -->
 
+    <section class="home-about">
+        <div class="image">
+            <img src="images/about.jpg" alt=""> 
+        </div>
+
+        <div class="content">
+            <h3>About Us</h3>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis doloribus sint rem qui omnis ad excepturi earum, deserunt et ea distinctio, explicabo labore culpa repudiandae debitis quisquam rerum sapiente cum?</p>
+            <a href="about.php" class="btn">Read More</a>
+        </div>
+
+
+    </section>
+
+
+
+
+<!-- home about section ends -->
 
 
 
