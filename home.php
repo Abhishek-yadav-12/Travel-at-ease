@@ -205,7 +205,7 @@
 
             </div>
 
-            
+
         </div>
         <div class="load-more">
             <a href="package.php" class="btn">Load More</a>
@@ -214,11 +214,20 @@
 
     <!-- home package section ends -->
 
-<!-- home offer section starts -->
+    <!-- home offer section starts -->
 
-    
+    <section class="home-offer">
+        <div class="content">
+            <h3>Upto 50% off</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero id hic excepturi incidunt corporis iste
+                dignissimos molestiae alias deserunt quis velit, ut harum, eveniet exercitationem quas unde? Inventore
+                ipsa esse aliquid voluptas laboriosam molestias dolorem hic dolore. Placeat, mollitia repudiandae.
+            </p>
+            <a href="book.php" class="btn">Book Now</a>
+        </div>
+    </section>
 
-<!-- home offer section ends -->
+    <!-- home offer section ends -->
 
 
 
@@ -275,10 +284,10 @@
 
 
     <!-- swiper js link -->
-    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11.0.0/swiper-bundle.min.js"></script>
 
 
-    <script src="js/script.js"></script>
+    <script type="module" src="js/script.js"></script>
 </body>
 
 </html>

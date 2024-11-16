@@ -46,9 +46,99 @@
     <!-- header section ending -->
 
 
-<div class="heading" style="background:url() no-repeat">
-    <h1>About Us</h1>
-</div>
+    <div class="heading" style="background:url(images/about.jpg) no-repeat">
+        <h1>About Us</h1>
+    </div>
+
+
+    <!-- about section starts -->
+
+    <section class="about">
+
+        <div class="image">
+            <img src="images/about.jpg" alt="">
+
+        </div>
+
+        <div class="content">
+            <h3>Why chose us?</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit ab iste commodi repudiandae delectus asperiores dolore deleniti dolorem, ipsum saepe facere odit nihil aut numquam minima excepturi esse id in!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat mollitia nulla quis impedit aspernatur ipsam sunt obcaecati ab, illum ducimus!</p>
+            <div class="icons-container">
+                <div class="icons">
+                    <i class="fas fa-map"></i>
+                    <span>Top Destinations</span>
+                </div>
+                <div class="icons">
+                    <i class="fas fa-hand-holding-usd"></i>
+                    <span>Affordable Prices</span>
+                </div>
+                <div class="icons">
+                    <i class="fas fa-headset"></i>
+                    <span>24/7 Guide Services</span>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+
+
+    <!-- about section ends -->
+
+
+
+<!-- reviews section starts -->
+
+    <section class="reviews">
+
+    <h1 class="heading-title">Client Reviews</h1>
+
+        <div class="swiper reviews-slider">
+            <div class="swiper-wrapper">
+                <div class="swiper-slider slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum, officiis iste. Officiis, atque inventore id fugiat sunt voluptatibus dolorem doloremque itaque corrupti distinctio facere harum beatae rem nam error fuga.</p>
+                    <h3>John Doe</h3>
+                    <span>Traveller</span>
+                    <img src="images/profile.jpg" alt="">
+                </div>
+                <div class="swiper-slider slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        </div>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore blanditiis ex atque? Doloremque exercitationem laborum nostrum, odit dolores quisquam reiciendis cupiditate officiis dolorem incidunt similique ea vero provident repellendus culpa unde dolor repudiandae eaque atque! Maxime quam praesentium non aperiam?</p>
+                    <h3>John Doe</h3>
+                    <span>Traveller</span>
+                    <img src="images/profile.jpg" alt="">
+                </div>
+                <div class="swiper-slider slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        </div>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore blanditiis ex atque? Doloremque exercitationem laborum nostrum, odit dolores quisquam reiciendis cupiditate officiis dolorem incidunt similique ea vero provident repellendus culpa unde dolor repudiandae eaque atque! Maxime quam praesentium non aperiam?</p>
+                    <h3>John Doe</h3>
+                    <span>Traveller</span>
+                    <img src="images/profile.jpg" alt="">
+                </div>
+                
+                
+                
+            </div>
+        </div>
+    </section>
 
 
 
@@ -56,6 +146,8 @@
 
 
 
+
+<!-- reviews section ends -->
 
 
 

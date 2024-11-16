@@ -46,7 +46,7 @@
     <!-- header section ending -->
 
 
-<div class="heading" style="background:url() no-repeat">
+<div class="heading" style="background:url(images/about.jpg) no-repeat">
     <h1>Packages</h1>
 </div>
 
