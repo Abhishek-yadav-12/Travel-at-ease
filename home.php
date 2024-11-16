@@ -52,7 +52,8 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide slide" style="background:url(images/travel.jpg)">
                     <div class="content">
-                    <span class="travel-text" style="color: rgba(255, 255, 255, 0.8); font-size: 3rem;">Explore, Discover, Travel</span>
+                        <span class="travel-text" style="color: rgba(255, 255, 255, 0.8); font-size: 3rem;">Explore,
+                            Discover, Travel</span>
 
                         <h3>travel around the world</h3>
                         <a href="package.php" class="btn">discover more</a>
@@ -60,7 +61,8 @@
                 </div>
                 <div class="swiper-slide slide" style="background:url(images/travel.jpg)">
                     <div class="content">
-                    <span class="travel-text" style="color: rgba(255, 255, 255, 0.8); font-size: 3rem;">Explore, Discover, Travel</span>
+                        <span class="travel-text" style="color: rgba(255, 255, 255, 0.8); font-size: 3rem;">Explore,
+                            Discover, Travel</span>
 
                         <h3>discover the new places</h3>
                         <a href="package.php" class="btn">discover more</a>
@@ -68,7 +70,8 @@
                 </div>
                 <div class="swiper-slide slide" style="background:url(images/travel.jpg)">
                     <div class="content">
-                    <span class="travel-text" style="color: rgba(255, 255, 255, 0.8); font-size: 3rem;">Explore, Discover, Travel</span>
+                        <span class="travel-text" style="color: rgba(255, 255, 255, 0.8); font-size: 3rem;">Explore,
+                            Discover, Travel</span>
 
                         <h3>make your time count</h3>
                         <a href="package.php" class="btn">discover more</a>
@@ -125,16 +128,21 @@
 
     <!-- sevices section ends -->
 
-<!-- home about section starts -->
+    <!-- home about section starts -->
 
     <section class="home-about">
         <div class="image">
-            <img src="images/about.jpg" alt=""> 
+            <img src="images/about.jpg" alt="">
         </div>
 
         <div class="content">
             <h3>About Us</h3>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis doloribus sint rem qui omnis ad excepturi earum, deserunt et ea distinctio, explicabo labore culpa repudiandae debitis quisquam rerum sapiente cum?</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis quidem soluta pariatur nisi?
+                Perspiciatis fugiat ea nihil commodi, amet ab architecto natus, esse ipsum, officiis sed magnam autem
+                praesentium quod enim et. Esse dolore incidunt aut inventore error rem expedita debitis deleniti
+                molestias corporis, earum sed minus, praesentium ex iure maiores atque natus iste. Minima, quo id
+                molestias fugiat, deleniti quis numquam eius doloribus doloremque eveniet excepturi laboriosam iure
+                sapiente dolorum, odio officiis aliquam quasi officia? Perferendis quae tenetur doloribus.</p>
             <a href="about.php" class="btn">Read More</a>
         </div>
 
@@ -144,11 +152,73 @@
 
 
 
-<!-- home about section ends -->
+    <!-- home about section ends -->
+
+    <!-- home package section starts -->
+
+    <section class="home-packages">
+
+        <h1 class="heading-title">Our Packages</h1>
+
+        <div class="box-container">
+
+            <div class="box">
+
+                <div class="image">
+
+                    <img src="images/about.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Adventure & Tour</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, nemo!</p>
+                    <a href="book.php" class="btn">Book Now</a>
+                </div>
+
+            </div>
 
 
+            <div class="box">
 
+                <div class="image">
 
+                    <img src="images/about.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Adventure & Tour</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, nemo!</p>
+                    <a href="book.php" class="btn">Book Now</a>
+                </div>
+
+            </div>
+
+            <div class="box">
+
+                <div class="image">
+
+                    <img src="images/about.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Adventure & Tour</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, nemo!</p>
+                    <a href="book.php" class="btn">Book Now</a>
+                </div>
+
+            </div>
+
+            
+        </div>
+        <div class="load-more">
+            <a href="package.php" class="btn">Load More</a>
+        </div>
+    </section>
+
+    <!-- home package section ends -->
+
+<!-- home offer section starts -->
+
+    
+
+<!-- home offer section ends -->
 
 
 
@@ -196,7 +266,8 @@
             </div>
         </div>
 
-        <div class="credit">Created with 🩵 by <span>Abhishek Yadav </span> || All rights reserved!</div>
+        <div class="credit">Created with 🩵 by <span><a href="https://github.com/Abhishek-yadav-12">Abhishek Yadav</a>
+            </span> || All rights reserved!</div>
 
     </section>
 
